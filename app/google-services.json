@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18799181338",
+    "project_id": "autenticacaofirebase-80c04",
+    "storage_bucket": "autenticacaofirebase-80c04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18799181338:android:e613739eefa4e4897e5ba3",
+        "android_client_info": {
+          "package_name": "com.example.aaautenticacaorafaelyuki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18799181338-iq32paa4mel0rmk8vhqf68bodacn0aa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQo9-1_mAjT2Jymy8-ajqHxPSSWKap3aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18799181338-iq32paa4mel0rmk8vhqf68bodacn0aa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
