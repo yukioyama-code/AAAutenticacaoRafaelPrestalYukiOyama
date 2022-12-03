@@ -20,6 +20,8 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseAuthException;
 
 public class MainActivity extends AppCompatActivity {
+
+    //Rafael Bianchi Presta e Yuki Hiroji Oyama
     private EditText txtEmail;
     private EditText txtSenha;
     private Button btnLogin;
